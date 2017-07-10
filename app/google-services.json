@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "258623858044",
+    "firebase_url": "https://doctorprofile-bb3ea.firebaseio.com",
+    "project_id": "doctorprofile-bb3ea",
+    "storage_bucket": "doctorprofile-bb3ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258623858044:android:7f91f59433cfb289",
+        "android_client_info": {
+          "package_name": "com.vishesh.doctorprofile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258623858044-7m4ta5ar72u2fsctieiq3168108obb8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vishesh.doctorprofile",
+            "certificate_hash": "9ae2f86b24e7839d0c9e5c91b68b6b124111cf48"
+          }
+        },
+        {
+          "client_id": "258623858044-tcmvgtu9rmsihrbpcjn4n1uv5olernrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Bmr3_WiKe5eG-wFWDk8IyO1y6P3uN4s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258623858044-tcmvgtu9rmsihrbpcjn4n1uv5olernrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
